@@ -1,22 +1,22 @@
-# Hansen Septian Anggi Siregar
+# Hi, I'm Hansen Septian Anggi Siregar 👋
 
 Software Engineer | Laravel Developer | Web Developer
 
-## Portfolio
-
-Website:
-https://hansen.mitraoptimasolution.com
+## About Me
+- 📍 Medan, Indonesia
+- 💻 Laravel & PHP Developer
+- 🌐 Portfolio: https://hansen.mitraoptimasolution.com
+- 📧 hansenregar@gmail.com
 
 ## Skills
-
-- Laravel
 - PHP
-- JavaScript
+- Laravel
 - MySQL
-- REST API
-- Web Development
+- JavaScript
+- HTML
+- CSS
+- Git & GitHub
 
-## Contact
-
-- LinkedIn: https://linkedin.com/in/hansen-septian-anggi-siregar-aa0073337
-- GitHub: https://github.com/Hansensiregar26
+## Projects
+- Absensi MOS
+- Hansendata
