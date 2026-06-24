@@ -19,4 +19,3 @@ Software Engineer | Laravel Developer | Web Developer
 
 ## Projects
 - Absensi MOS
-- Hansendata
